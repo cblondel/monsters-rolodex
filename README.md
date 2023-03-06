@@ -1,3 +1,11 @@
+# First Application in my React training (udemy formation Complete React Developer in 2023 with Andrei Neagoie)
+
+- Learning to create react components with the class approach and Typescript
+- Separate and Organize components into different folders and files
+- Practice css with Tailwind
+- Dark and Light Mode
+- Percent progress bar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
