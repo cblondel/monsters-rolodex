@@ -1,5 +1,12 @@
 # First Application in my React training (udemy formation Complete React Developer in 2023 with Andrei Neagoie)
 
+## v2
+
+- Migration of all class components to functionnals components
+- Learning how to implement the use of life-cycle event with useState and useEffect hooks
+
+## v1
+
 - Learning to create react components with the class approach and Typescript
 - Separate and Organize components into different folders and files
 - Practice css with Tailwind
