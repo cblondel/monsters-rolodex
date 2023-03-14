@@ -36,7 +36,7 @@ const App = (props: AppProps) => {
     <div className="sm:px-40 mx-auto dark:bg-zinc-900 dark:text-white">
       <header className="fixed top-0 left-0 right-0 flex place-content-between items-center lg:px-16 sm:px-10 px-4 sm:py-5 py-4 dark:bg-zinc-800 shadow-sm bg-zinc-100">
         <h1 className="text-3xl font-medium text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-cyan-500">MONSTER ROLODEX</h1>
-        <ThemeSwitcher isDark={false} />
+        <ThemeSwitcher />
         <PercentProgressBar initialPercent={0} />
       </header>
       <div className="flex justify-center justify-items-center p-4 sm:pt-28 sm:pb-8">
